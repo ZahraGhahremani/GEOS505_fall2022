@@ -20,5 +20,5 @@ T | Time-bound
 
 | Syntax      | Description |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| S     | Specific       |
+| M   | Measurable        |
