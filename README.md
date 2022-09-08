@@ -9,16 +9,11 @@ Email: [zahraghahremani@u.boisestate.edu] (mailto:zahraghahremani@u.boisestate.e
 3. Goal 3
 
 ## SMART Goals
------------- | -------------
-
-S | Specific
-M | Measurable
-A | Achievable
-R | Relevant
-T | Time-bound
------------- | -------------
 
 | Syntax      | Description |
 | ----------- | ----------- |
 | S     | Specific       |
 | M   | Measurable        |
+| A   | Achievable        |
+| R   | Relevant        |
+| T   | Time-bound        |
