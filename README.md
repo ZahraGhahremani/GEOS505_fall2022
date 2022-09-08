@@ -1,4 +1,4 @@
-#GEOS 505: Research computing in the earth and enviornmental science 
+# GEOS 505: Research computing in the earth and enviornmental science 
 
 ## Zahra Hero
 
