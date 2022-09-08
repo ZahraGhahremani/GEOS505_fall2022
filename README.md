@@ -17,3 +17,8 @@ A | Achievable
 R | Relevant
 T | Time-bound
 ------------ | -------------
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
