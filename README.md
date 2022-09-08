@@ -10,6 +10,7 @@ Email: [zahraghahremani@u.boisestate.edu] (mailto:zahraghahremani@u.boisestate.e
 
 ## SMART Goals
 ------------ | -------------
+
 S | Specific
 M | Measurable
 A | Achievable
