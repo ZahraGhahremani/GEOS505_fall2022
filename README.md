@@ -2,4 +2,4 @@
 
 ## Zahra Hero
 
-Email: [zahraghahremani@u.boisestate.edu] (zahraghahremani@u.boisestate.edu)
+Email: [zahraghahremani@u.boisestate.edu] (mailto:zahraghahremani@u.boisestate.edu)
